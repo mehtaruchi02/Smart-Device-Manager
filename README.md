@@ -1,5 +1,7 @@
 # Smart-Device-Manager
 
+[![Smart Device Manager Application](https://github.com/mehtaruchi/Smart-Device-Manager/blob/master/screenshots/1_Screenshots.gif)]
+
  This is a project I had developed as part of my Internship as a ___Project Trainee___ at ___Niyantras___, a Vadodara based company.
 
 "Smart Device Manager" is an android application to configure, monitor and operate the following automation systems offered by  ___Niynatras___:
