@@ -1,7 +1,8 @@
 # Smart-Device-Manager
- mfm
 
-"Smart Device Manager" is an android application to configure, monitor and operate the following automation systems offered by  ___Niynatras___, A Vadodara based company:
+ This is a project I had developed as part of my Internship as a ___Project Trainee___ at ___Niyantras___, a Vadodara based company.
+
+"Smart Device Manager" is an android application to configure, monitor and operate the following automation systems offered by  ___Niynatras___:
 * Home automation system (Power and Curtain module)
 * Water tank monitoring system
 * Health monitoring system
