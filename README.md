@@ -1,10 +1,10 @@
 # Smart-Device-Manager
 
-[![Smart Device Manager Application](https://github.com/mehtaruchi/Smart-Device-Manager/blob/master/screenshots/1_Screenshots.gif)]
+![Smart Device Manager Application](https://github.com/mehtaruchi/Smart-Device-Manager/blob/master/screenshots/1_Screenshots.gif)
 
  This is a project I had developed as part of my Internship as a ___Project Trainee___ at ___Niyantras___, a Vadodara based company.
 
-"Smart Device Manager" is an android application to configure, monitor and operate the following automation systems offered by  ___Niynatras___:
+"Smart Device Manager" is an android application to configure, monitor and operate the following automation systems offered by  ___Niyantras___:
 * Home automation system (Power and Curtain module)
 * Water tank monitoring system
 * Health monitoring system
@@ -12,7 +12,7 @@
 * Speaker system
 
 ******Features******
-d
+
 * A single application to configure, monitor and operate all the automation systems:
 
     * Home automation system (Power module)
@@ -33,7 +33,7 @@ d
        * Give wireless behavior to wired speakers.
 
 * Server-driven user-interface   
-     * The server sends information about the iser-interface as plain strings and the application parses the data to create iser-interface at runtime dynamically. 
+     * The server sends information about the user-interface as plain strings and the application parses the data to create user-interface at runtime dynamically. 
      This is useful when version conflict may arise between server and application i.e.  Server has new functionalities so now client also needs to keep making new user interfaces in order to remain in sync with server.
 
 * Provide a choice of communication interface (Bluetooth or Wi-Fi) to communicate to the connected system.
