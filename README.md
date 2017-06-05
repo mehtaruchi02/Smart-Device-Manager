@@ -33,7 +33,7 @@
        * Give wireless behavior to wired speakers.
 
 * Server-driven user-interface   
-     * The server sends information about the user-interface as plain strings and the application parses the data to create user-interface at runtime dynamically. 
+     * The server sends information about the user-interface ( type of widget, hint, default values, possible values, validation criteria etc) as data and the application parses the data to create user-interface at runtime dynamically. 
      This is useful when version conflict may arise between server and application i.e.  Server has new functionalities so now client also needs to keep making new user interfaces in order to remain in sync with server.
 
 * Provide a choice of communication interface (Bluetooth or Wi-Fi) to communicate to the connected system.
